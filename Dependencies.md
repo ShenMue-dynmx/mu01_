@@ -1,4 +1,4 @@
-``` pip installl numpy pyautogui json requests ikpy
+``` pip installl numpy pyautogui json requests ikpy ```
 
 ## ikpy
 ``` pip install ikpy ```
