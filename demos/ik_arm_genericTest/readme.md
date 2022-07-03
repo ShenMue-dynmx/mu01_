@@ -21,4 +21,8 @@ Fire up one terminal with following command
 ```    
 urdf-viz arm/urdf/arm.urdf
 ```
-Then launch ``` controller.py ``` from different terminal
+Then launch 
+``` 
+python controller.py 
+``` 
+from different terminal
