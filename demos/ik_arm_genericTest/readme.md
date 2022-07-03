@@ -9,6 +9,7 @@ pyautogui
 json
 requests
 numpy
+ikpy
 ``` 
 To install all in one go try running 
 ```
